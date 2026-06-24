@@ -110,3 +110,6 @@ python --version
 ## 👤 Author
 
 * **Arjun** - *Initial Work & Integration* - [GitHub Portfolio](https://github.com/)
+
+## Deployment
+This project is configured for deployment on Railway/Render.
