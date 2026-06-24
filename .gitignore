@@ -8,3 +8,7 @@ env/
 
 .env
 *.log
+
+# Python 3.12
+__pycache__/
+*.py[cod]
