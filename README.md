@@ -118,3 +118,8 @@ This project is configured for deployment on Railway/Render.
 - [Arjun](https://github.com/arjun906130)
 
 Last Updated: June 2026
+
+## Roadmap
+- [ ] Multi-region support
+- [ ] PDF Report Export
+- [ ] Real-time WebSocket updates
